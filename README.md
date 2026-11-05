@@ -45,3 +45,11 @@ This project marks my transition into advanced PCB design. It is my first time u
 ## 🖼️ Schematic
 ![Schematic](Schematic%20(Img_Pdf)/Schematic.png)
 
+## 🖼️ PCB Layout – Top Layer And Bottom Layer
+![Top Layer](Top_Layer%20(Img_Pdf_3D)/Top%20Layer.png)
+![Bottom Layer](Bottom_Layer%20(Img_Pdf_3D)/Bottom%20Layer.png)
+
+## 🖼️ 3D Views
+![3D Top View](Top_Layer%20(Img_Pdf_3D)/Top%203D%20View.png)
+![3D Bottom View](Bottom_Layer%20(Img_Pdf_3D)/Bottom%203D%20View.png)
+
