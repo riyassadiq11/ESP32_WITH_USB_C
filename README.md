@@ -42,4 +42,6 @@ This project marks my transition into advanced PCB design. It is my first time u
 2. **The Role of 0-Ohm Resistors:** I learned the practical applications of 0-ohm resistors. In this design, I used them strategically on the USB data lines to allow for hardware configuration, signal routing flexibility, and bridge isolation during testing.
 3. **Advanced Design Rules:** I mastered the Altium Design Rule Check (DRC) system. Beyond just basic graphical menus, I learned how to modify and enforce design rules using Altium's query language (code-like commands) to specifically target differential pairs and custom clearance requirements.
 
+## 🖼️ Schematic
+![Schematic](Schematic%20(Img_Pdf)/Schematic.png)
 
